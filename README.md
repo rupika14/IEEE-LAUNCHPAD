@@ -12,19 +12,13 @@ Currently, I'm expanding my skills by learning web development. I have also crea
 
 ### My Projects
 
-| Name                | Description                                                | Hosted Link                                        | Repo Link                                              |
-|---------------------|------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------|
-| **Portfolio Website** | A personal portfolio to showcases my projects and skills | [Portfolio](https://rupika14.github.io/Portfolio/) | [Repo Link](https://github.com/rupika14/TinDog)        |
-| **TinDog**          | Tinder for Dogs a Fun project                              | [TinDog](https://rupika14.github.io/TinDog/)       | [Repo Link](https://github.com/rupika14/Portfolio)     |
-| **DebateBox**       | An app for users to debate on various topics               |    -                                               | [Repo Link](https://github.com/rupika14/debate_box)    |
-| **Abstractly**      | A summarisation app                                        |    -                                               | [Repo Link](https://github.com/rupika14/abstractly1.0) |
-
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Portfolio Website**  | A personal portfolio to showcases my projects and skills                                              | [Portfolio](https://rupika14.github.io/Portfolio/)   |      [Repo Link](https://github.com/rupika14/Portfolio)          |
 | **TinDog**  | Tinder for Dogs a Fun project                                            | [TinDog](https://rupika14.github.io/TinDog/)    | [Repo Link](https://github.com/rupika14/TinDog)             |
 | **DebateBox**  | An app for users to debate on various topics |  - | [Repo Link](https://github.com/rupika14/debate_box) |
 | **Abstractly**  | A summarisation app |-| [Repo Link](https://github.com/rupika14/abstractly1.0) |
+
 #### Leadership and Influence:
 
 - Led a team of 4 in building our project and deliverd it on-time
