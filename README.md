@@ -30,6 +30,7 @@ Currently, I'm expanding my skills by learning web development. I have also crea
 - Active participation in Azure Developer Community
 - Part of different Cohorts organized by the community
 - [Linkedin Profile](https://www.linkedin.com/in/rupika-c-a6663124b/) with 300+ followers
+  
 #### Career Plan:
 
 - Immediate plan would be to land at a Developer role in a reputed company and mentor students in different tech
